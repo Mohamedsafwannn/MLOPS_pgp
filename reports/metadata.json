@@ -1,10 +1,10 @@
 {
     "dataset_name":"",
     "dataaset version":"v1",
-    "rows": 0,
-    "coloumns":0,
-    "missing_values": 0,
+    "rows": 113425,
+    "coloumns":29,
+    "missing_values": 25017,
     "created_by":"Fida Naurin"
-    "timestamp":"
-    "
+    "timestamp":"2026-06-08"
+    
 }
